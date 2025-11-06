@@ -174,7 +174,7 @@ AI-Health-Assistant-WebApp
 ### 1. Clona i afegeix variables sensibles
 
 ```
-git clone https://github.com/RogerDuran808/AI-Health-Assistant-WebApp.git
+git clone https://github.com/rogerduranlopez/AI-Health-Assistant-WebApp.git
 cd AI-Health-Assistant-WebApp
 cp .env.example .env      # omple FITBIT_CLIENT_ID, …, ACCESS_TOKEN
 
