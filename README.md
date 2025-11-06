@@ -81,9 +81,9 @@ L’objectiu últim és que l’aplicació no només proporcioni recomanacions g
 - [x] Fluxe backend i frontend
 - [x] Integram Fitbit
 - [x] Integram IA
-- [ ] Processament de dades i prediccions amb IA
-- [ ] Fine-tuning model LLM
-- [ ] Interfície web millorada
+- [x] Processament de dades i prediccions amb IA
+- [x] Fine-tuning model LLM
+- [x] Interfície web millorada
 
 ---
 
